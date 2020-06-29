@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: choutuan.service.TestUserService
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.006 s <<< FAILURE! - in choutuan.service.TestUserService
+register(choutuan.service.TestUserService)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.IllegalStateException: Transaction not successfully started
+	at choutuan.service.TestUserService.register(TestUserService.java:31)
+

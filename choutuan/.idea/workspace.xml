@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="choutuan:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d010674-e87a-4e34-a26a-80637bc1172e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="choutuan@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="choutuan@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="choutuan@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="choutuan: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="choutuan@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="choutuan: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="hotelhome: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="choutuan@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="choutuan: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Unnamed">
+      <favorite_root url="RegisterServlet" module="choutuan" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1204">
+              <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+              <folding>
+                <element signature="e#586#591#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/choutuan/dao/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+              <folding>
+                <element signature="method#login#0;class#UserDao#0" />
+                <element signature="method#forgetPassword#0;class#UserDao#0" />
+                <element signature="method#update#0;class#UserDao#0" />
+                <element signature="method#delete#0;class#UserDao#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/choutuan/dao/HotelRedisDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="671">
+              <caret line="163" column="9" lean-forward="true" selection-start-line="149" selection-start-column="7" selection-end-line="163" selection-end-column="9" />
+              <folding>
+                <element signature="n#!!doc;n#HotelRedisDao#0" />
+                <element signature="n#!!doc;n#userDao#0;n#HotelRedisDao#0" />
+                <element signature="n#!!doc;n#setRedisHome#0;n#HotelRedisDao#0" />
+                <element signature="method#setRedisHome#0;class#HotelRedisDao#0" />
+                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#3513#3534#0" />
+                <element signature="n#!!doc;n#redisToMysql#0;n#HotelRedisDao#0" />
+                <element signature="method#redisToMysql#0;class#HotelRedisDao#0" />
+                <element signature="method#getHotelHome#0;class#HotelRedisDao#0" />
+                <element signature="method#getHotelHomes#0;class#HotelRedisDao#0" />
+                <element signature="method#updateHotelHome#0;class#HotelRedisDao#0" />
+                <element signature="method#userStringToUser#0;class#HotelRedisDao#0" />
+                <element signature="method#getNameList#0;class#HotelRedisDao#0" />
+                <element signature="method#toRedisMap#0;class#HotelRedisDao#0" />
+                <element signature="method#getNameList#1;class#HotelRedisDao#0" />
+                <element signature="e#9652#9704#1" />
+                <element signature="e#9745#9797#1" />
+                <element signature="e#9837#9889#1" />
+                <element signature="method#toBean#0;class#HotelRedisDao#0" />
+                <element signature="e#10004#10124#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1428">
+              <caret line="51" column="2" selection-start-line="51" selection-start-column="2" selection-end-line="56" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/User.hbm.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/User/ChangePassword.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/User/ChangePasswordTwo.jsp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/hotel.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4816">
+              <caret line="172" column="32" selection-start-line="172" selection-start-column="32" selection-end-line="172" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1960">
+              <caret line="70" column="30" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="xml" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CLIC</find>
+      <find>setHotel</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/choutuan/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/Servlet/User/ChangePassWordServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/choose.html" />
+        <option value="$PROJECT_DIR$/target/choutuan/js/choose.js" />
+        <option value="$PROJECT_DIR$/target/choutuan/User/register.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/choose.css" />
+        <option value="$PROJECT_DIR$/src/main/test/choutuan/service/TestUserService.java" />
+        <option value="$PROJECT_DIR$/src/main/test/choutuan/Servlet/User/TestJson.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/HotelHome.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/HotelHome.hbm.xml" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/Utils/RedisUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/Utils/RedisiUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/Utils/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/Utils/HibernateUtils.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/Utils/SerializeUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/domain/RedisHotelHome.java" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/domain/HotelHome.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/Utils/SerializableUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/dao/RedisDao.java" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/domain/User.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/index.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/User/register.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/register.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/User/Login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/indexcss.css" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/domain/Hotel.java" />
+        <option value="$PROJECT_DIR$/src/main/test/choutuan/service/TestHotelService.java" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/Filter/UserFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/Servlet/User/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/Utils/ToJsonString.java" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/service/HotelService.java" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/Servlet/User/DeleteUserServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/Utils/TestRunTime.java" />
+        <option value="$PROJECT_DIR$/src/main/test/choutuan/dao/AddHotelHome.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/choose.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/hotel.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/test/choutuan/testString.java" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/Servlet/Hotel/BuyHomeServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/hotel.js" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/Listener/MyListener.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/hotel.jsp" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/test/choutuan/dao/TestUserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/Servlet/Hotel/ShowHomeServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/choutuan/dao/HotelRedisDao.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/User.hbm.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\Administrator\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="choutuan Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="choutuan Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="155" />
+    <option name="y" value="58" />
+    <option name="width" value="1769" />
+    <option name="height" value="1036" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="choutuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="choutuan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="choutuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="choutuan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="choutuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="choutuan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="choutuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="choutuan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="choutuan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="choutuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="choutuan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="choutuan" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="choutuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="choutuan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="choutuan" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="choutuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="choutuan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="choutuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="choutuan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="choutuan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="choutuan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/choutuan" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WEBWORKPLASE\choutuan\src\main\webapp" />
+      <recent name="D:\WEBWORKPLASE\choutuan\src\main\webapp\WEB-INF" />
+      <recent name="D:\WEBWORKPLASE\choutuan\src\main\webapp\js" />
+      <recent name="D:\WEBWORKPLASE\choutuan\src\main\webapp\css" />
+      <recent name="D:\WEBWORKPLASE\choutuan\src\main\webapp\User" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="daoTest" />
+      <recent name="Utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WEBWORKPLASE\choutuan\src\main\webapp" />
+      <recent name="D:\WEBWORKPLASE\choutuan\src\main\webapp\WEB-INF\User" />
+      <recent name="D:\WEBWORKPLASE\choutuan\src\main\webapp\WEB-INF" />
+      <recent name="D:\WEBWORKPLASE\choutuan\src\main\test\User" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.45">
+    <configuration name="TestHotelService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="choutuan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="choutuan.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="choutuan.service" />
+      <option name="MAIN_CLASS_NAME" value="choutuan.service.TestHotelService" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHotelService.gethotel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="choutuan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="choutuan.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="choutuan.service" />
+      <option name="MAIN_CLASS_NAME" value="choutuan.service.TestHotelService" />
+      <option name="METHOD_NAME" value="gethotel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHotelService.updateHotel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="choutuan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="choutuan.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="choutuan.service" />
+      <option name="MAIN_CLASS_NAME" value="choutuan.service.TestHotelService" />
+      <option name="METHOD_NAME" value="updateHotel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUserDao.getUserHome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="choutuan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="choutuan.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="choutuan.dao" />
+      <option name="MAIN_CLASS_NAME" value="choutuan.dao.TestUserDao" />
+      <option name="METHOD_NAME" value="getUserHome" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testString.fun1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="choutuan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="choutuan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="choutuan" />
+      <option name="MAIN_CLASS_NAME" value="choutuan.testString" />
+      <option name="METHOD_NAME" value="fun1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.45" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.45" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="choutuan:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/choutuan" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_choutuan" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="11058" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="choutuan:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestHotelService.updateHotel" />
+      <item itemvalue="JUnit.TestHotelService" />
+      <item itemvalue="JUnit.TestHotelService.gethotel" />
+      <item itemvalue="JUnit.testString.fun1" />
+      <item itemvalue="JUnit.TestUserDao.getUserHome" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.45" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestUserDao.getUserHome" />
+        <item itemvalue="JUnit.testString.fun1" />
+        <item itemvalue="JUnit.TestHotelService.gethotel" />
+        <item itemvalue="JUnit.TestHotelService" />
+        <item itemvalue="JUnit.TestHotelService.updateHotel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d010674-e87a-4e34-a26a-80637bc1172e" name="Default Changelist" comment="" />
+      <created>1575978077743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575978077743</updated>
+      <workItem from="1575978081011" duration="12604000" />
+      <workItem from="1576031759167" duration="11414000" />
+      <workItem from="1576048458460" duration="6679000" />
+      <workItem from="1576057121908" duration="17145000" />
+      <workItem from="1576136423275" duration="15875000" />
+      <workItem from="1576161953062" duration="2250000" />
+      <workItem from="1576204478461" duration="652000" />
+      <workItem from="1576227223361" duration="7163000" />
+      <workItem from="1576302242443" duration="2957000" />
+      <workItem from="1576305490401" duration="10187000" />
+      <workItem from="1576316438851" duration="6773000" />
+      <workItem from="1576455354059" duration="11014000" />
+      <workItem from="1576477018804" duration="27382000" />
+      <workItem from="1576543126953" duration="32246000" />
+      <workItem from="1576587701425" duration="5031000" />
+      <workItem from="1576632586049" duration="892000" />
+      <workItem from="1576636791451" duration="27725000" />
+      <workItem from="1576719446988" duration="5589000" />
+      <workItem from="1576755538955" duration="18167000" />
+      <workItem from="1576821949568" duration="2692000" />
+      <workItem from="1576913736446" duration="5442000" />
+      <workItem from="1576920007773" duration="181000" />
+      <workItem from="1577014275272" duration="1199000" />
+      <workItem from="1577062328061" duration="810000" />
+      <workItem from="1577065568736" duration="1224000" />
+      <workItem from="1577077495648" duration="630000" />
+      <workItem from="1577092041098" duration="2039000" />
+      <workItem from="1577146826248" duration="4867000" />
+      <workItem from="1577165368086" duration="239000" />
+      <workItem from="1577757567390" duration="607000" />
+      <workItem from="1578726321894" duration="239000" />
+      <workItem from="1580302437000" duration="58000" />
+      <workItem from="1580400276248" duration="117000" />
+      <workItem from="1582958978324" duration="47000" />
+      <workItem from="1582959066629" duration="625000" />
+      <workItem from="1582959722562" duration="2089000" />
+      <workItem from="1582967181059" duration="606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestHotelService - 2019.12.20 at 12h 42m 04s.xml">
+      <configuration name="TestHotelService" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestHotelService_gethotel - 2019.12.20 at 12h 45m 25s.xml">
+      <configuration name="TestHotelService.gethotel" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testString_fun1 - 2019.12.21 at 16h 48m 43s.xml">
+      <configuration name="testString.fun1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="testString_fun1 - 2019.12.21 at 16h 48m 55s.xml">
+      <configuration name="testString.fun1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserDao_getUserHome - 2019.12.22 at 19h 35m 09s.xml">
+      <configuration name="TestUserDao.getUserHome" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserDao_getUserHome - 2019.12.22 at 19h 35m 27s.xml">
+      <configuration name="TestUserDao.getUserHome" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserDao_getUserHome - 2019.12.22 at 19h 37m 07s.xml">
+      <configuration name="TestUserDao.getUserHome" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserDao_getUserHome - 2019.12.22 at 19h 38m 18s.xml">
+      <configuration name="TestUserDao.getUserHome" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserDao_getUserHome - 2019.12.22 at 19h 38m 32s.xml">
+      <configuration name="TestUserDao.getUserHome" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUserDao_getUserHome - 2019.12.22 at 19h 40m 24s.xml">
+      <configuration name="TestUserDao.getUserHome" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="245456000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="155" y="58" width="1769" height="1036" extended-state="1" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7353267" visible="true" weight="0.2574605" />
+      <window_info id="Structure" order="1" sideWeight="0.42465752" side_tool="true" weight="0.1369936" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Persistence" order="3" sideWeight="0.42465752" side_tool="true" weight="0.1369936" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.42465752" side_tool="true" weight="0.1369936" />
+      <window_info id="Image Layers" order="7" />
+      <window_info id="Web" order="8" sideWeight="0.26467332" side_tool="true" visible="true" weight="0.2574605" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3391116" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.9579832" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.616468" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.5969664" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.312026" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.29312426" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.21695095" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" weight="0.17324094" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="SciView" order="10" />
+      <window_info anchor="right" x="0" y="0" width="392" height="647" id="Documentation" order="11" side_tool="true" visible="true" weight="0.08250439" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/test/choutuan/service/TestUserService.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/test/choutuan/dao/TestUserDao.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/choutuan/Servlet/User/Register.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>user</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Timer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5936">
+          <caret line="244" column="66" selection-start-line="244" selection-start-column="66" selection-end-line="244" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#1511#1512#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/choutuan/service/TestUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/choutuan/testConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="137" column="13" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/Filter/EncodingRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/Filter/UserFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/Servlet/User/ChangePassWordServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/Servlet/User/ForgetPasswordServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/Servlet/User/DeleteUserServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/Servlet/User/Register.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/Servlet/User/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/choutuan/service/TestHotelService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/choose.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1260">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/Utils/SerializableUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/Utils/SerializeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/Utils/ToJsonString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="43" column="40" lean-forward="true" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/Utils/TestRunTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/indexcss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2800">
+          <caret line="100" column="26" selection-start-line="100" selection-start-column="26" selection-end-line="100" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/hotel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10640">
+          <caret line="380" column="20" selection-start-line="380" selection-start-column="20" selection-end-line="380" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/hotel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/choutuan/testString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/choutuan/dao/TestUserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/Servlet/Hotel/ShowHomeServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/choutuan/dao/AddHotelHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/domain/HotelHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/domain/Hotel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding>
+            <element signature="e#2216#2217#0" expanded="true" />
+            <element signature="e#2244#2245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/Exception/RegisterMyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/Exception/LoginException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/Listener/MyListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+          <folding>
+            <element signature="e#1504#1721#0" expanded="true" />
+            <element signature="e#1720#1721#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/service/HotelService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/Servlet/Hotel/BuyHomeServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/Utils/RedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/User/Login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/User/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/HotelHome.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/Utils/HibernateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1204">
+          <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
+          <folding>
+            <element signature="e#586#591#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="51" column="2" selection-start-line="51" selection-start-column="2" selection-end-line="56" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/User.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/User/ChangePassword.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/User/ChangePasswordTwo.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/hotel.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4816">
+          <caret line="172" column="32" selection-start-line="172" selection-start-column="32" selection-end-line="172" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1960">
+          <caret line="70" column="30" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <element signature="method#login#0;class#UserDao#0" />
+            <element signature="method#forgetPassword#0;class#UserDao#0" />
+            <element signature="method#update#0;class#UserDao#0" />
+            <element signature="method#delete#0;class#UserDao#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/choutuan/dao/HotelRedisDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="163" column="9" lean-forward="true" selection-start-line="149" selection-start-column="7" selection-end-line="163" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc;n#HotelRedisDao#0" />
+            <element signature="n#!!doc;n#userDao#0;n#HotelRedisDao#0" />
+            <element signature="n#!!doc;n#setRedisHome#0;n#HotelRedisDao#0" />
+            <element signature="method#setRedisHome#0;class#HotelRedisDao#0" />
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#3513#3534#0" />
+            <element signature="n#!!doc;n#redisToMysql#0;n#HotelRedisDao#0" />
+            <element signature="method#redisToMysql#0;class#HotelRedisDao#0" />
+            <element signature="method#getHotelHome#0;class#HotelRedisDao#0" />
+            <element signature="method#getHotelHomes#0;class#HotelRedisDao#0" />
+            <element signature="method#updateHotelHome#0;class#HotelRedisDao#0" />
+            <element signature="method#userStringToUser#0;class#HotelRedisDao#0" />
+            <element signature="method#getNameList#0;class#HotelRedisDao#0" />
+            <element signature="method#toRedisMap#0;class#HotelRedisDao#0" />
+            <element signature="method#getNameList#1;class#HotelRedisDao#0" />
+            <element signature="e#9652#9704#1" />
+            <element signature="e#9745#9797#1" />
+            <element signature="e#9837#9889#1" />
+            <element signature="method#toBean#0;class#HotelRedisDao#0" />
+            <element signature="e#10004#10124#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>choutuan:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 29 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>choutuan</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

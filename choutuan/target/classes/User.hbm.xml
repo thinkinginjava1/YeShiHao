@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!--导入dtd约束
+
+
+一个xml对应了一个表的结构
+idea下连接数据库后，这些都会自动提示
+mapping 上写入包名
+id自增长写上generator表示自增长
+其他的都以建值对的方式写上
+-->
+<hibernate-mapping package="domain">
+    <class name="User" table="User" >
+        <id name="id" column="id">
+            <generator class="native"></generator>
+            <!--使用本地数据库的自增长-->
+            <!--主键自增长-->
+        </id>
+        <property name="name" column="name"></property>
+        <property name="password" column="password"></property>
+        <property name="gender" column="gender"/>
+        <property name="birthday" column="birthday"></property>
+        <property name="address" column="address"></property>
+        <property name="phoneNumber" column="phoneNumber"></property>
+        <set name="hotels" table="hotelhome" inverse="false">
+            <!--hotel 多的一方集合的名字-->
+            <key column="h_id"></key>
+            <!--hotel外键-->
+            <one-to-many class="HotelHome" ></one-to-many>
+        </set>
+    </class>
+</hibernate-mapping>

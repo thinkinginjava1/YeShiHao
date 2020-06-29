@@ -1,0 +1,148 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: none;
+	box-sizing: border-box;
+	font-family: serif;
+
+	transition: 0.25s all;
+}
+ul li {
+	list-style: none;
+}
+
+body {
+	background: url(../img/bg2.jpg);
+	background-size: cover;
+	margin: auto;
+}
+.main {
+}
+
+/* header */
+.main header {
+	padding: 1em 0;
+	position: relative;
+	background: linear-gradient(gray,white);
+}
+header .logo {
+	position: absolute;
+	left: 2em;
+	top: 0%;
+}
+header nav {
+	margin-left: 13em;
+}
+nav ul li {
+	display: inline;
+	margin: 0 2em;
+}
+nav ul li a {
+	text-decoration: none;
+	color: black;
+	font-size: 1.35em;
+}
+nav ul li a:hover {
+	color: #FF8C00;
+}
+header .user {
+	position: absolute;
+	right: 0.5em;
+	top: 0.5em;
+}
+header .user:hover {
+}
+.user label {
+	font-size: 1.25em;
+	text-decoration: none;
+	color: black;
+}
+.user label:hover {
+	color: white;
+	text-decoration: underline;
+	background: blue;
+	padding: 0.5em;
+	cursor: pointer;
+}
+.user>input {
+	display: none;
+}
+.user>label {
+	font-size: 1.25em;
+	font-weight: 800;
+}
+
+header .user-info {
+	position: absolute;
+	right: 0;
+	text-align: center;
+	width: 300px;
+	padding: 1em;
+	background: rgba(88,88,88,0.5);
+
+	display: none;
+}
+.user-info h3 {
+	font-size: 1.5em;
+}
+.user-info a {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	text-decoration: none;
+	display: block;
+	margin: 1em 0;
+	padding: 0.5em 0;
+	color: blue;
+}
+.user-info a:hover {
+	color: white;
+}
+.user-info p {
+	margin: 0.5em 0;
+}
+
+.main .welcome {
+	margin: auto;
+	padding-top: 4em;
+}
+.welcome h2 {
+	text-align: center;
+	font-size: 3em;
+}
+
+.main section {
+	width: 100%;
+	text-align: center;
+}
+section .default {
+	width: 250px;
+	height: 250px;
+	margin: 0 3em;
+	margin-top: 10%;
+	background: yellow;
+	display: inline-block;
+}
+section .hotel {
+	background: url(../img/giphy.gif);
+	border-radius: 50%;
+}
+section h1 {
+	color: white;
+	font-size: 2.5em;
+	margin-top: 40%;
+}
+section a {
+	text-decoration: none;
+}
+section .user-info {
+	background: url(../img/giphy.gif);
+	border-radius: 50%;
+}
+section .default:hover {
+	cursor: pointer;
+	box-shadow: 0 0 20px orange;
+	width: 270px;
+	height: 270px;
+}
+section .user-info:hover {
+}

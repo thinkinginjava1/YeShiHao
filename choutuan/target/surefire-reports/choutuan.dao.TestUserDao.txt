@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: choutuan.dao.TestUserDao
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.849 s <<< FAILURE! - in choutuan.dao.TestUserDao
+regist(choutuan.dao.TestUserDao)  Time elapsed: 0.018 s  <<< ERROR!
+java.lang.IllegalStateException: Transaction not successfully started
+	at choutuan.dao.TestUserDao.regist(TestUserDao.java:21)
+
